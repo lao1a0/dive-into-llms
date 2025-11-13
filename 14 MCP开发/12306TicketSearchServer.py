@@ -1,5 +1,6 @@
 from mcp import ClientSession
 from mcp.client.streamable_http import streamablehttp_client
+#echo "https://api.developer.iata.org/duffel-duffel-default/api/duffel/details" | smithery run Fabien-desablens-mcp-webpage-timestamps.mcpb --key "b9dff0dc-7046-4ad2-88b0-cef602f99011"
 
 # Construct server URL with authentication
 from urllib.parse import urlencode

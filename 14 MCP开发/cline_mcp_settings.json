@@ -8,6 +8,15 @@
       "env": {},
       "disabled": false,
       "autoApprove": []
+    },
+    "github.com/AgentDeskAI/browser-tools-mcp": {
+      "command": "npx",
+      "args": [
+        "@agentdeskai/browser-tools-mcp@latest"
+      ],
+      "env": {},
+      "disabled": false,
+      "autoApprove": []
     }
   }
 }
